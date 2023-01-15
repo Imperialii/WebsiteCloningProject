@@ -1,0 +1,81 @@
+body {
+    margin:0px
+
+}
+
+h1 {
+    background-color: #252525;
+    color: white;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Noto Sans', sans-serif;font-size: 0.875rem;
+    margin: 0px;
+}
+
+#warhammerlogolight01 {
+    width: 34px;
+    height: 31px;
+}
+
+h2 {
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    font-family: 'Noto Sans', sans-serif;font-size: 0.875rem;
+}
+
+#searchbar01 {
+    background-color:#D5D5D5;
+}
+
+#gwstackedlogo01 {
+    width: 190px;
+    height: 73.4px;
+    padding: 2px;
+}
+
+#gbflag01 {
+    width: 24px;
+    height:18px;
+}
+
+nav {
+    background-color: #252525;
+    color: white;
+    display:flex;
+    align-items:center;
+    justify-content:space-evenly;
+    font-family: 'Noto Sans', sans-serif;font-size: 0.875rem;
+    text-align:center
+}
+
+
+a {
+    text-decoration: none !important;
+  }
+  
+  a:hover {
+    color: white;
+    text-decoration: none !important;
+    cursor: pointer;
+  }
+
+
+
+#mainbanner01 {
+    display:flex;
+}
+
+
+#adgrid01 {
+    display:flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+#adgrid02 {
+    display:flex;
+    justify-content: space-around;
+    padding: 10px;
+}
